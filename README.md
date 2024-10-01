@@ -27,7 +27,7 @@ The API is not intended for production use, and there are no guarantees of stabi
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/tts-fastapi.git
+    git clone https://github.com/agusibrahim/tiktok-tts-api
     cd tts-fastapi
     ```
 
@@ -133,8 +133,6 @@ This project uses an **unofficial and private API** from **TikTok** for converti
 - TikTok may disable or block access to this API at any time, and there is no guarantee of the API's stability or availability.
 - This project is intended for **educational purposes only**, and it is your responsibility to comply with the policies of TikTok if you use this service.
 - The project author is not responsible for any misuse or violation of terms that may occur by using this API.
-
 ---
 
 Built with ❤️ using [FastAPI](https://fastapi.tiangolo.com/).
-```
